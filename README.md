@@ -1,4 +1,3 @@
-# dashcam-vehicle-state-classification
 # Dashcam Vehicle State Classification
 
 A machine learning project to classify vehicle states from dashcam image frames using feature-based methods.
