@@ -37,10 +37,6 @@ Instead of deep learning, the focus was on extracting meaningful visual features
 ## Files
 - `code/` → ML scripts / notebooks
 - `presentation/` → Project presentation
-- `images/` → Sample outputs and results
-
-## Demo / Results
-(Add screenshots or results here)
 
 ## Notes
 This project focuses on interpretable feature-based classification rather than deep learning approaches.
